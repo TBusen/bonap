@@ -1,1 +1,1 @@
-# Prototype project for my new idea ... Bon ap!
+# Prototype project for my new idea ... Bon app!
